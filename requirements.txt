@@ -1,0 +1,9 @@
+flask==3.0.3
+flask-socketio==5.3.6
+eventlet==0.36.1
+opencv-python-headless==4.9.0.80
+onnxruntime==1.18.0
+numpy==1.26.4
+psycopg2-binary==2.9.9
+SQLAlchemy==2.0.20
+eventlet
