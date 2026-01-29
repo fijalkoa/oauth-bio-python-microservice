@@ -7,3 +7,5 @@ numpy==1.26.4
 psycopg2-binary==2.9.9
 SQLAlchemy==2.0.20
 eventlet
+flask-sock
+pillow
